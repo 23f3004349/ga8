@@ -1,5 +1,5 @@
-import os,sys  
-
-unused_var = 123
+import os
+import sys
 
 print(os.getcwd())
+print(sys.version)
